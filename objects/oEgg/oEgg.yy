@@ -6,8 +6,8 @@
   "name":"oEgg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ovum Luctatio",
-    "path":"Ovum Luctatio.yyp",
+    "name":"Ovum",
+    "path":"Ovum.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

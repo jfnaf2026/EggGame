@@ -15,7 +15,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.4.222",
   },
   "name":"Ovum Luctatio",
   "resources":[
@@ -25,6 +25,7 @@
     {"id":{"name":"sEgg","path":"sprites/sEgg/sEgg.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
     {"id":{"name":"sMosquito","path":"sprites/sMosquito/sMosquito.yy",},},
+    {"id":{"name":"Sp","path":"sprites/Sp/Sp.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

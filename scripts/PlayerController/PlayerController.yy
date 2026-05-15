@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"PlayerController",
   "parent":{
-    "name":"Ovum Luctatio",
-    "path":"Ovum Luctatio.yyp",
+    "name":"Ovum",
+    "path":"Ovum.yyp",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

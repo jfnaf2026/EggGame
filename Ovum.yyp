@@ -1,6 +1,6 @@
 {
   "$GMProject":"v1",
-  "%Name":"Ovum Luctatio",
+  "%Name":"Ovum",
   "AudioGroups":[
     {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -15,13 +15,14 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.3.217",
+    "IDEVersion":"2024.14.4.222",
   },
-  "name":"Ovum Luctatio",
+  "name":"Ovum",
   "resources":[
     {"id":{"name":"oEgg","path":"objects/oEgg/oEgg.yy",},},
     {"id":{"name":"ForestLevel","path":"rooms/ForestLevel/ForestLevel.yy",},},
     {"id":{"name":"PlayerController","path":"scripts/PlayerController/PlayerController.yy",},},
+    {"id":{"name":"sAnt","path":"sprites/sAnt/sAnt.yy",},},
     {"id":{"name":"sEgg","path":"sprites/sEgg/sEgg.yy",},},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},},
     {"id":{"name":"sMosquito","path":"sprites/sMosquito/sMosquito.yy",},},

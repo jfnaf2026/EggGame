@@ -13,8 +13,8 @@
   ],
   "name":"ForestLevel",
   "parent":{
-    "name":"Ovum Luctatio",
-    "path":"Ovum Luctatio.yyp",
+    "name":"Ovum",
+    "path":"Ovum.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

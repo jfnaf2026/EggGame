@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Ovum Luctatio",
-    "path":"Ovum Luctatio.yyp",
+    "name":"Ovum",
+    "path":"Ovum.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
