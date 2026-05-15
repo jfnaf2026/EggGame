@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oEgg",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oSky",
+  "eventList":[],
   "managed":true,
-  "name":"oEgg",
+  "name":"oSky",
   "overriddenProperties":[],
   "parent":{
     "name":"Ovum",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sEgg",
-    "path":"sprites/sEgg/sEgg.yy",
+    "name":"sSky",
+    "path":"sprites/sSky/sSky.yy",
   },
   "spriteMaskId":null,
   "visible":true,
