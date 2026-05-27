@@ -9,8 +9,8 @@
   "name":"oEgg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Ovum",
-    "path":"Ovum.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
