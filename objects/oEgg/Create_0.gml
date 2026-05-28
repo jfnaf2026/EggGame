@@ -1,4 +1,4 @@
-window_set_size(1280, 720);
+window_set_fullscreen(true);
 
 xsp = 0;
 ysp = 0;

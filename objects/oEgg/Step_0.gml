@@ -16,7 +16,7 @@ if place_meeting(x, y+1, oSolid)
         ysp = 0
         if keyboard_check(vk_space)
         {
-                ysp = -5       
+                ysp = -6.7     
         }
 }
 
@@ -37,15 +37,6 @@ if place_meeting(x,y,oThorn)
 		}
 	}
 
-if place_meeting(x,y,oAnt)
-	{
-		hp -= 1;
-		if hp >= 0
-		{
-			room_goto(GameOver)
-		}
-	}
-
 if place_meeting(x,y,oMosquito)
 	{
 		hp -= 1;
@@ -54,6 +45,16 @@ if place_meeting(x,y,oMosquito)
 			room_goto(GameOver)
 		}
 	}
+
+if place_meeting(x,y,oBullet)
+	{
+		hp -= 1;
+		if hp >= 0
+		{
+			room_goto(GameOver)
+		}
+	}
+
 
 
 if hp <= 0
